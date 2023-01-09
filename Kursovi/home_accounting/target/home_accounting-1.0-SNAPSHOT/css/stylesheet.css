@@ -1,0 +1,24 @@
+div.forms {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.login {
+    text-align: center;
+    padding-top: 10%;
+}
+div.forms>form{
+    padding: 3%;
+    background-color: burlywood;
+}
+a.logout{
+    position: fixed;
+}
+div.list{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}

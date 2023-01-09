@@ -1,0 +1,12 @@
+div.login {
+    text-align: center;
+}
+div.adminFunctions {
+    display: flex;
+    justify-content: space-evenly;
+}
+div.doctor{
+    background-color: wheat;
+    padding: 1%;
+    border: 1px solid black;
+}

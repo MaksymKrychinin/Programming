@@ -1,0 +1,54 @@
+div.form-container.close{
+    display: none;
+}
+div.form-container {
+    display: block;
+    width: 100%;
+    text-align: -webkit-center;
+    float: left;
+}
+a.button{
+    border-radius: 25px;
+    border: 4px solid #dcdcdc;
+    display: block;
+    cursor: pointer;
+    color: #666666;
+    padding: 1% 2%;
+    text-decoration: none;
+    background-color: wheat;
+    width: 10%;
+    float: left;
+}
+body{
+    background-color: seashell;
+}
+form{
+    padding: 3%;
+    border-radius: 25px;
+    border: 4px solid #dcdcdc;
+    width: 20%;
+}
+div.allForms{
+    display: block;
+    width: 100%;
+    float: left;
+}
+div.weatherAll{
+    position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    padding-top: 5%;
+    overflow: auto;
+    width: 100%;
+}
+div.weather{
+    display: block;
+    float: left;
+    width: 87.5%;
+    align-self: center;
+    text-align: center;
+    border: 4px solid;
+    padding-left: 6%;
+    padding-right: 6%;
+    border-color: darkgray;
+}

@@ -1,0 +1,43 @@
+markets:
+  - marketName: "Market #1"
+    goods:
+     - name: kavun
+       price: 35
+     - name: banana
+       price: 70
+     - name: cherry
+       price: 90
+     - name: orange
+       price: 40
+     - name: carrot
+       price: 70
+     - name: potato
+       price: 10
+  - marketName: "Market #2"
+    goods:
+      - name: apple
+        price: 48
+      - name: mango
+        price: 50
+      - name: kavun
+        price: 25
+      - name: banana
+        price: 50
+      - name: cherry
+        price: 90
+      - name: orange
+        price: 48
+  - marketName: "Market #3"
+    goods:
+      - name: cherry
+        price: 120
+      - name: orange
+        price: 50
+      - name: carrot
+        price: 60
+      - name: potato
+        price: 70
+      - name: bread
+        price: 70
+      - name: cheese
+        price: 120

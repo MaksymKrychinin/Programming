@@ -1,0 +1,51 @@
+div.form-container {
+    display: flex;
+    padding: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+form#registration {
+    padding-left: 5%;
+}
+
+div.queueList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+div.queueListElements {
+    padding: 2%;
+    display: block;
+    text-align: center;
+    border: 1px solid #949494;
+    border-radius: 16px;
+    background-color: floralwhite;
+}
+
+div#settingQueue {
+    display: flex;
+    justify-content: center;
+}
+
+div#settingQueue > * {
+    padding-left: 3%;
+}
+
+div.queueUsers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+div.queueUsers > div {
+    display: block;
+    text-align: center;
+    border: 1px solid #949494;
+    border-radius: 16px;
+    background-color: floralwhite;
+    padding-left: 2%;
+    padding-right: 2%;
+}

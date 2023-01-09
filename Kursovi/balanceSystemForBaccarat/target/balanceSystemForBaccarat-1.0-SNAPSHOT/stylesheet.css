@@ -1,0 +1,48 @@
+.loginForm>input{
+    font-size: 100px;
+    border: black 10px solid;
+    width: 100%;
+}
+button{
+    width:100%;
+    font-size: 100px;
+}
+.loginForm{
+    text-align: center;
+    text-align-last: center;
+}
+.submitBetForm{
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+.submitBetForm>div{
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    width:100%;
+}
+.submitBetForm>div>input{
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    width:100%;
+    border: black 5px solid;
+}
+body>p{
+    font-size:100px;
+    margin: 10px;
+}
+body>a{
+    font-size:100px;
+    margin: 10px;
+}
+body{
+    width: 100%;
+}
+body>*>*>* {
+    margin-top: 50px;
+}

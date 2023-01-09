@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="607509c4-8bef-441f-b06d-e41aa34abfa7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java1/Bombs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java1/Bombs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/TAlab3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/TAlab3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/TAlab3/out/production/TAlab3/com/TAlab3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/TAlab3/out/production/TAlab3/com/TAlab3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/TAlab3/src/com/TAlab3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/TAlab3/src/com/TAlab3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab2EE/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab2EE/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab2EE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab2EE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/artifacts/lab3EE_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/artifacts/lab3EE_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/artifacts/lab3EE_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/artifacts/lab3EE_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/lab3EE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/lab3EE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/src/main/java/com/example/lab3ee/AdvancedCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/src/main/java/com/example/lab3ee/Formules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/classes/com/example/lab3ee/AdvancedCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/classes/com/example/lab3ee/Formules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/lab3EE-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/lab3EE-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/lab3EE-1.0-SNAPSHOT/WEB-INF/classes/com/example/lab3ee/AdvancedCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/lab3EE-1.0-SNAPSHOT/WEB-INF/classes/com/example/lab3ee/Formules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/lab3EE-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab3EE/target/lab3EE-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/lab4EE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/lab4EE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/src/main/java/Model/ConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/src/main/java/Model/DBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/src/main/java/Model/ItemsDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/src/main/java/Model/ItemsSearcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/src/main/resources/DBParams.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programming/Projects_Java2/lab4EE/src/main/resources/DBParams.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="299KrkJ5P12rUWE9XG4AwSHVcsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RanameGenshinCoords" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="607509c4-8bef-441f-b06d-e41aa34abfa7" name="Changes" comment="" />
+      <created>1652520061927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652520061927</updated>
+      <workItem from="1652520063192" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

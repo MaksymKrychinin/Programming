@@ -1,0 +1,19 @@
+body{
+    background: rgb(255,229,182);
+    background: linear-gradient(90deg, rgba(255,229,182,1) 0%, rgba(255,155,178,1) 100%);
+}
+div.container{
+    background-color: whitesmoke;
+    opacity: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 5%;
+    width: 90%;
+    left: 5%;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 1%;
+    border-bottom-style: outset;
+}

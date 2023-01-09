@@ -1,0 +1,21 @@
+input.search{
+    width: 50%;
+    height: 5%;
+    font-size: 200%;
+    text-align: center;
+}
+button.search{
+    border: none;
+    background-color: #d5d5d5; color: black;
+    padding: 2% 7%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+div.search{
+    top: 1%;
+    position: relative;
+    text-align: center;
+}

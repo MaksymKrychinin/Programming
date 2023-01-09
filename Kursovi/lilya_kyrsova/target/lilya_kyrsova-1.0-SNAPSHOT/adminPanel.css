@@ -1,0 +1,36 @@
+.myButton {
+    background-color:#3e85a3;
+    border-radius:28px;
+    border:1px solid #26ab33;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:13px 47px;
+    text-decoration:none;
+}
+.myButton:hover {
+    background-color:#4064e6;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+#homePageButton{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    float: left;
+}
+div.formsAdmin{
+    float: left;
+    height: 50%;
+    width: 3%;
+    background-color: #908cc7;
+    margin-left: 30px;
+}
+p.status{
+    horiz-align: center;
+    font-size: 20px;
+}

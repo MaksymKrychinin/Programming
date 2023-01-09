@@ -1,0 +1,63 @@
+body {
+    font-family: 'lato', sans-serif;
+}
+
+li {
+    padding: 1% 4%;
+    display: flex;
+    justify-content: space-between;
+}
+
+li:nth-child(odd) {
+    background-color: rgb(134, 150, 229);
+}
+
+li.table-header {
+    background-color: rgb(76, 95, 199);
+    font-size: 20px;
+    position: sticky;
+    top: 0;
+}
+
+
+.table-row {
+    background-color: #ffffff;
+    box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+
+div.ShowRate {
+    background-color: rgb(84, 105, 212);
+    border-radius: 20px;
+    justify-items: center;
+}
+.myButton {
+    background-color:#3e85a3;
+    border-radius:28px;
+    border:1px solid #26ab33;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:13px 47px;
+    text-decoration:none;
+}
+.myButton:hover {
+    background-color:#4064e6;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+#ShowRateOnDate{
+    display: inline-flex;
+    margin-left: 20%;
+}
+#ShowRateToday{
+display: grid;
+}
+#login{
+    display: flex;
+align-items: center;
+justify-content: flex-end;
+}

@@ -1,0 +1,135 @@
+header {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background-color: bisque;
+    align-items: center;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background-color: bisque;
+    position: absolute;
+    bottom: 0;
+}
+
+html {
+    margin: 0;
+    min-height: 100%
+}
+
+body {
+    margin: 0;
+    min-height: 100%
+}
+
+/* SLIDE BAR */
+.slideBar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.slideBar a {
+    text-align: left;
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.slideBar a:hover {
+    color: #f1f1f1;
+}
+
+.slideBar .closeButton {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.slideBarMenuOpen {
+    width: 20%;
+    margin: 0;
+}
+
+/* REGISTER FORM */
+
+form#register > div.formElement {
+    display: flex;
+    flex-direction: column;
+}
+
+.gender {
+    display: flex;
+    flex-direction: row;
+}
+
+.gender > * {
+    align-self: center;
+}
+
+#register {
+    background-color: azure;
+}
+
+#signIn {
+    background-color: azure;
+}
+
+small {
+    background-color: indianred;
+}
+
+
+div.hidden {
+    display: none;
+}
+
+div.hidden.show {
+    display: block;
+    position: fixed;
+    top: 10%;
+    z-index: 10;
+    left: 25%;
+    text-align: -webkit-center;
+    width: 50%;
+}
+
+div.hidden > * {
+    z-index: 10;
+    display: block;
+}
+
+form.openForm {
+    background-color: white;
+    border-radius: 20px;
+    height: 20%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.closeButtonForm {
+    color: red;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    float: right;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+/**/

@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1#name-of-topic {
+    margin-top: 100px;
+    font-size: 500%;
+    color: wheat;
+    margin-bottom: 0;
+}
+
+div.name-of-topic {
+    height: 350px;
+    width: 99.4%;
+    border: 4px double black;
+    background-image: url("../img/topBG.jpg");
+    background-size: 100%;
+    padding: 0px;
+    text-align: center;
+}
+
+hr#main {
+    border: 10px solid cadetblue;
+    width: 50%;
+    margin-bottom: 2%;
+}
+
+hr#blocks-selector {
+    border: 2px solid #595959;
+}
+
+h2#about-me {
+    font-size: 280%;
+    margin: 0;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    text-align: center;
+}
+
+div.topic {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+img#my-photo {
+    width: 450px;
+    height: 300px;
+    vertical-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+}
+div#about-info{
+    float: right;
+    width: 58%;
+    font-size: 20px;
+}
+.skills>img{
+    width: 75%;
+    height: 50%;
+}
+div.skills{
+    width: 50%;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+div#skills{
+    margin-top: 40px;
+}
+#prof-skills>li{
+    line-height: 1.8;
+    font-size: 20px;
+}

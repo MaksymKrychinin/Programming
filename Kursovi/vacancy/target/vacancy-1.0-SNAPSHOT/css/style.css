@@ -1,0 +1,32 @@
+div#createVacancy > form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    text-align: center;
+}
+
+div#createVacancy > form > * {
+    padding: 1%;
+}
+
+div#createVacancy {
+    text-align: -webkit-center;
+    padding: 1%;
+    background-color: bisque;
+}
+
+div.form-container {
+    display: flex;
+    padding: 10%;
+    justify-content: space-around;
+    text-align: center;
+}
+
+div.vacancyElement > p {
+    margin: 0;
+}
+
+div.vacancyElement {
+    margin-top: 1%;
+    background-color: antiquewhite
+}

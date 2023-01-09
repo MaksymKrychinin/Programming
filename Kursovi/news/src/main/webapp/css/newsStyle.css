@@ -1,0 +1,19 @@
+div.login {
+    text-align: center;
+}
+
+div.functions {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p {
+    margin: 0;
+}
+div.news{
+    padding: 1%;
+    background-color: wheat;
+    margin-top: 1%;
+}

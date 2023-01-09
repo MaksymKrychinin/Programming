@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Sinoptik_kursova:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Sinoptik_kursova</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Sinoptik_kursova-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Sinoptik_kursova:war exploded" />
+    </root>
+  </artifact>
+</component>

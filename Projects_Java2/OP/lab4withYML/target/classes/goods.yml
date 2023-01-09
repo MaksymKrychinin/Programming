@@ -1,0 +1,21 @@
+goods:
+  - name: apple
+    price: 50
+  - name: mango
+    price: 60
+  - name: kavun
+    price: 30
+  - name: banana
+    price: 70
+  - name: cherry
+    price: 100
+  - name: orange
+    price: 50
+  - name: carrot
+    price: 60
+  - name: potato
+    price: 80
+  - name: bread
+    price: 70
+  - name: cheese
+    price: 100

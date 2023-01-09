@@ -1,0 +1,3 @@
+host = jdbc:mysql://127.0.0.1:3306/exchange
+user = root
+pass = mak7.0202
